@@ -9,10 +9,10 @@ CSS file (buttons.css)
 .cssClass{
  atributte: value
 }
-
+```
 HTML file (buttons.html)
 ```html
 <tag class="cssClass">
   .....
 </tag>
-
+```

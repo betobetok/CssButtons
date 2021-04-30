@@ -6,13 +6,18 @@ Colaboration example:
 
 CSS file (buttons.css)
 ```css
-.cssClass{
- atributte: value
+//Efect Name
+.efectName-btn{
+ atributte: value;
 }
+.otherClassName{
+ atribute:value;
+}
+//
 ```
 HTML file (buttons.html)
 ```html
-<tag class="cssClass">
-  .....
+<tag class="efectName-btn">
+ <tag class="otherClassName">...</tag>
 </tag>
 ```
